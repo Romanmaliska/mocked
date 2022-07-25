@@ -11,11 +11,11 @@
     "name": {
             "loremWord": {}
         },
-    "image": "https://api.lorem.space/image/furniture?w=150&h=150",
-    "images": [
+    "image": {"string": ["https://api.lorem.space/image/furniture?w=150&h=150"]},
+    "images": {"string": [
         "https://api.lorem.space/image/watch?w=640&h=480&r=5128",
         "https://api.lorem.space/image/watch?w=640&h=480&r=4616",
         "https://api.lorem.space/image/watch?w=640&h=480&r=8922"
-    ]
+    ]}
 }
 }
