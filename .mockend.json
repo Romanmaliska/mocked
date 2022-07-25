@@ -13,7 +13,8 @@
         },
     "image": {"string": [
         "https://api.lorem.space/image/furniture?w=1980&h=1980",
-        "https://cdn.lorem.space/images/furniture/.cache/1980x1980/nathalie-jolie-6-xcHVkwj0c-unsplash.jpg"
+        "https://cdn.lorem.space/images/furniture/.cache/1980x1980/nathalie-jolie-6-xcHVkwj0c-unsplash.jpg",
+        "https://cdn.lorem.space/images/furniture/.cache/1980x1980/rabie-madaci-4iwG8QD17AE-unsplash.jpg"
     ]},
     "images": {"string": [
         "https://api.lorem.space/image/watch?w=640&h=480&r=5128",
