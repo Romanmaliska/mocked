@@ -11,7 +11,10 @@
     "name": {
             "loremWord": {}
         },
-    "image": {"string": ["https://api.lorem.space/image/furniture?w=1980&h=1980"]},
+    "image": {"string": [
+        "https://api.lorem.space/image/furniture?w=1980&h=1980",
+        "https://cdn.lorem.space/images/furniture/.cache/1980x1980/nathalie-jolie-6-xcHVkwj0c-unsplash.jpg"
+    ]},
     "images": {"string": [
         "https://api.lorem.space/image/watch?w=640&h=480&r=5128",
         "https://api.lorem.space/image/watch?w=640&h=480&r=4616",
