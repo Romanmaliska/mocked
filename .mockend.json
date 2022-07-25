@@ -11,7 +11,7 @@
     "name": {
             "loremWord": {}
         },
-    "image": {"string": ["https://api.lorem.space/image/furniture?w=150&h=150"]},
+    "image": {"string": ["https://api.lorem.space/image/furniture?w=1980&h=1980"]},
     "images": {"string": [
         "https://api.lorem.space/image/watch?w=640&h=480&r=5128",
         "https://api.lorem.space/image/watch?w=640&h=480&r=4616",
