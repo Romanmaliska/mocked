@@ -1,17 +1,18 @@
-{
+{"Furniture": {
     "Id": 1,
     "Title": {
       "loremWord": {}
-    },
+        },
     "Price": {
       "int": { "min": 0, "max": 2000 }
-    },
+        },
     "Description": {
       "loremSentences": { "minLength": 100, "maxLength": 200 }
-    },
+        },
     "Category": {
-        "name": {"loremWord": {}
-    },
+        "name": {
+            "loremWord": {}
+        },
         "image": "https://api.lorem.space/image/furniture?w=150&h=150"
     },
     "Images": [
@@ -19,4 +20,5 @@
         "https://api.lorem.space/image/watch?w=640&h=480&r=4616",
         "https://api.lorem.space/image/watch?w=640&h=480&r=8922"
     ]
+}
 }
